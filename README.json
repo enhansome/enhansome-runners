@@ -1,7 +1,569 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "actions/actions-runner-controller",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236736020,
+            "language": "Go",
+            "last_commit": "2026-08-17T22:14:40Z",
+            "owner": "actions",
+            "repo": "actions-runner-controller",
+            "stars": 6459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yes (IssueOps project available",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342595041,
+            "language": "Dockerfile",
+            "last_commit": "2021-06-12T17:20:26Z",
+            "owner": "jonico",
+            "repo": "auto-scaling-github-runners-kubernetes-issueops",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-aws-runners/terraform-aws-github-runner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258465213,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:47:32Z",
+            "owner": "github-aws-runners",
+            "repo": "terraform-aws-github-runner",
+            "stars": 3113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yes (IssueOps project available",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337357839,
+            "language": "HCL",
+            "last_commit": "2021-03-09T11:48:45Z",
+            "owner": "jonico",
+            "repo": "auto-scaling-github-runners-ec2-issueops",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myoung34/docker-github-actions-runner",
+          "description": "Docker ✅ Org, Repo, Labels, RunnerGroups docker-compose, Nomad & k8s examples ❌ x86, ARM64, ARM ✅ yes no yes (DinD) no no no no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223951404,
+            "language": "Shell",
+            "last_commit": "2026-08-21T18:46:33Z",
+            "owner": "myoung34",
+            "repo": "docker-github-actions-runner",
+            "stars": 2432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evryfs/github-actions-runner-operator",
+          "description": "k8s ✅ Organization, Repo yes (k8s manifests define max and min) ✅ scales up to min runners ASAP, then adds one runner at a time up to max if all current runners are busy, scales down idle runners up to min x86 ✅ no yes (ephemeral from v0.10.0) yes (install time, optional DinD) no no no actions-runner controller",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 256623849,
+            "language": "Go",
+            "last_commit": "2025-11-21T07:01:01Z",
+            "owner": "evryfs",
+            "repo": "github-actions-runner-operator",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonolithProjects/ansible-github_actions_runner",
+          "description": "bare metal/VM ✅ Organization, Repo, Labels based on Ansible playbook ❌ x86, AMD64, ARM, ARM64 explicitly in playbook no no install Ansible agents Ansible agents possible no Ansible agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240944701,
+            "language": null,
+            "last_commit": "2026-07-20T05:53:45Z",
+            "owner": "MonolithProjects",
+            "repo": "ansible-github_actions_runner",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SanderKnape/github-runner",
+          "description": "Docker ❌ Org, Repo, Labels k8s manifest example ❌ x86 ✅ yes no no no no no no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247074124,
+            "language": "Shell",
+            "last_commit": "2022-06-21T06:44:36Z",
+            "owner": "SanderKnape",
+            "repo": "github-runner",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "machulav/ec2-github-runner",
+          "description": "AWS EC2 ❌ Repo GitHub Actions workflow params ✅ (1 runner per workflow run that requests it) x86 part of Actions workflow no yes (ephemeral) no embedded in GitHub Action workflow possible yes (Actions Workflow) no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320320607,
+            "language": "JavaScript",
+            "last_commit": "2026-05-08T21:05:30Z",
+            "owner": "machulav",
+            "repo": "ec2-github-runner",
+            "stars": 858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terraform-google-modules/terraform-google-github-actions-runners",
+          "description": "k8s (GKE), Docker, VMs (GCE) ❌ Repo Terraform config/k8s manifests only on k8s, based on generic pod CPU consumption (HPA metric) x86 only worked for Docker yes no no no VMs could be configured like this no at least one idle runner to allow HPA to kick in based on CPU consumption",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246933399,
+            "language": "HCL",
+            "last_commit": "2026-07-31T13:03:17Z",
+            "owner": "terraform-google-modules",
+            "repo": "terraform-google-github-actions-runners",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-developer/self-hosted-runners-anthos",
+          "description": "k8s (Anthos GKE) ❌ Repo Terraform config/k8s manifests only on k8s, based on generic pod CPU consumption (HPA metric) x86 ✅ yes no yes, for DinD (can be turned off) no no no at least one idle runner to allow HPA to kick in based on CPU consumption",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254143252,
+            "language": "Dockerfile",
+            "last_commit": "2022-02-13T20:48:08Z",
+            "owner": "github-developer",
+            "repo": "self-hosted-runners-anthos",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmoconsult/github-runner-windows",
+          "description": "Windows Docker container ❌ Org, Repo docker compose example in blog post ❌ win-x86 replace but not remove yes no no no no no no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 319988158,
+            "language": "PowerShell",
+            "last_commit": "2025-03-12T08:54:40Z",
+            "owner": "cosmoconsult",
+            "repo": "github-runner-windows",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redhat-actions/self-hosted-runner-installer",
+          "description": "Kubernetes (OpenShift) ✅ Org, Repo, Labels HELM chart parameters ❌ x86 ✅ yes no no no no no no",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 327242212,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T10:30:49Z",
+            "owner": "redhat-actions",
+            "repo": "openshift-actions-runner-installer",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peter-murray/github-actions-runner-container",
+          "description": "Docker ❌ Enterprise, Org, Repo, Labels, RunnerGroups ❌ ❌ x86 ✅ yes yes no no no no no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292511249,
+            "language": "Dockerfile",
+            "last_commit": "2022-04-10T12:04:24Z",
+            "owner": "peter-murray",
+            "repo": "github-actions-runner-container",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lts-beratung/ansible-github-action-runner",
+          "description": "bare metal or VM ❌ Org, Repo Ansible playbook ❌ x86 ✅ yes no install Ansible agents Ansible agents possible no Ansible agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280956359,
+            "language": null,
+            "last_commit": "2022-06-09T12:59:49Z",
+            "owner": "lts-beratung",
+            "repo": "ansible-github-action-runner",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rakheshster/github-runner-on-ubuntu",
+          "description": "Azure VM (ARM template) ❌ Repo ❌ ❌ x86 ❌ yes no no no possible no no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290539254,
+            "language": "PowerShell",
+            "last_commit": "2021-02-16T16:59:51Z",
+            "owner": "rakheshster",
+            "repo": "github-runner-on-ubuntu",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChristopherHX/github-act-runner",
+          "description": "bare metal ✅ Enterprise, Org, Repo, Labels, RunnerGroups ❌ ❌ x86, AMD64, ARM, ARM64, riscv64, s390x, ppc64, ppc64le, mips, mipsle, mips64, mips64le on Linux, Windows, macOS, Openbsd, Freebsd, Netbsd, Solaris, Dragonfly, Plan9, Android and Illumos ❌ no yes no no no no no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370827527,
+            "language": "Go",
+            "last_commit": "2026-03-21T16:57:57Z",
+            "owner": "ChristopherHX",
+            "repo": "github-act-runner",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "related-sciences/gce-github-runner",
+          "description": "GCP GCE ❌ Repo GitHub Actions workflow params ✅ (1 runner per workflow run that requests it) x86 part of Actions workflow no yes (ephemeral) no embedded in GitHub Action workflow possible yes (Actions Workflow) no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 381059114,
+            "language": "Shell",
+            "last_commit": "2026-01-05T07:27:53Z",
+            "owner": "related-sciences",
+            "repo": "gce-github-runner",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whywaita/myshoes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 311498265,
+            "language": "Go",
+            "last_commit": "2026-08-20T08:15:13Z",
+            "owner": "whywaita",
+            "repo": "myshoes",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Machine: LXD, OpenStack, AWS, and more! (pluggable, can implement any platform) The already implemented provider is whywaita/myshoes-providers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320583655,
+            "language": "Go",
+            "last_commit": "2024-04-28T11:04:59Z",
+            "owner": "whywaita",
+            "repo": "myshoes-providers",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "possible (provide image in some provider, e.g. whywaita/virtual-environments-lxd",
+          "description": "and shoes-lxd)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 341811611,
+            "language": "Shell",
+            "last_commit": "2026-02-20T09:35:16Z",
+            "owner": "whywaita",
+            "repo": "actions-runner-images-lxd",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boozallen/goobernetes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 393441587,
+            "language": "Dockerfile",
+            "last_commit": "2022-01-18T09:56:54Z",
+            "owner": "boozallen",
+            "repo": "goobernetes",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yes (IssueOps project available",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342595041,
+            "language": "Dockerfile",
+            "last_commit": "2021-06-12T17:20:26Z",
+            "owner": "jonico",
+            "repo": "auto-scaling-github-runners-kubernetes-issueops",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "some-natalie/kubernoodles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 467232684,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-23T08:54:25Z",
+            "owner": "some-natalie",
+            "repo": "kubernoodles",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yes (IssueOps project available",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342595041,
+            "language": "Dockerfile",
+            "last_commit": "2021-06-12T17:20:26Z",
+            "owner": "jonico",
+            "repo": "auto-scaling-github-runners-kubernetes-issueops",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "knatnetwork/github-runner",
+          "description": "Docker for single machine quick start or K8s deployments for multiple replicas ❌ Org, Repo, Labels docker-compose or k8s deployment ❌ AMD64, ARM64 ✅ no yes (if ephemeral option is used) yes (install time, optional DinD) no no no no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481587657,
+            "language": "Shell",
+            "last_commit": "2025-09-23T07:27:09Z",
+            "owner": "knatnetwork",
+            "repo": "github-runner",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudSnorkel/cdk-github-runners",
+          "description": "Docker on AWS CodeBuild, Fargate or Lambda ✅ Labels On-demand ✅ AMD64, ARM64 ✅ no yes (always ephemeral) yes yes (Lambda URL with secret) possible no no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 494199802,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T02:50:01Z",
+            "owner": "CloudSnorkel",
+            "repo": "cdk-github-runners",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vbem/multi-runners",
+          "description": "bare metal/VM ✅ Org, Repo, Labels, RunnerGroups CLI control ❌ x86, AMD64, ARM, ARM64 CLI control yes no yes no possible yes (CLI) no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 697119408,
+            "language": "Shell",
+            "last_commit": "2026-05-12T09:32:57Z",
+            "owner": "vbem",
+            "repo": "multi-runners",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "runs-on/runs-on",
+          "description": "AWS EC2 ✅ Repo, Dynamic Labels On-demand ✅ x86, AMD64, ARM64 ✅ No PAT, only JIT token Auto-cleanup No runtime privilege GitHub App exposed AllInOne and custom images possible yes (Actions Workflow) $15/month",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 729502940,
+            "language": null,
+            "last_commit": "2026-08-24T11:27:03Z",
+            "owner": "runs-on",
+            "repo": "runs-on",
+            "stars": 1299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudbase/garm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488973970,
+            "language": "Go",
+            "last_commit": "2026-08-24T06:34:30Z",
+            "owner": "cloudbase",
+            "repo": "garm",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k8s,VM,Bare Metal (pluggable",
+          "description": "), available providers: k8s, EC2, OpenStack, OCI, GCP, LXD, Incus, Equinix Metal, Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488973970,
+            "language": "Go",
+            "last_commit": "2026-08-24T06:34:30Z",
+            "owner": "cloudbase",
+            "repo": "garm",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yes (if used as standalone, optionally it can be integrated in k8s using the garm-operator",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 687037349,
+            "language": "Go",
+            "last_commit": "2026-08-03T06:50:26Z",
+            "owner": "mercedes-benz",
+            "repo": "garm-operator",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Privatehive/gcp-hosted-github-runner",
+          "description": "GCP GCE ✅ Enterprise, Org, Repo, Labels, RunnerGroups On-demand ✅ 1 runner per workflow job. Created when job is \"queued\". Deleted when job is \"completed\". x86, AMD64, ARM64 ✅ No PAT, only JIT token yes (always ephemeral) no yes, required for github-webhook endpoint, needed for auto scaling possible no no (covered by GCP free tier)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 829636083,
+            "language": "Go",
+            "last_commit": "2025-07-05T18:44:30Z",
+            "owner": "Privatehive",
+            "repo": "gcp-hosted-github-runner",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sprinters-sh/sprinters",
+          "description": "AWS EC2 ❌ Repo, Dynamic Labels On-demand ✅ AMD64, ARM64 ✅ No PAT, only JIT token Ephemeral instances with auto-cleanup No privileges needed Not exposed Full and minimal images Yes $0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822653448,
+            "language": null,
+            "last_commit": "2025-05-05T08:13:38Z",
+            "owner": "sprinters-sh",
+            "repo": "sprinters",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cisco-open/forge",
+          "description": "Multi-tenant wrapper around ARC & terraform-aws-github-runner, adding automation & extra features on top with a single interface to deploy & manage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 982222834,
+            "language": "HCL",
+            "last_commit": "2026-08-22T17:05:52Z",
+            "owner": "cisco-open",
+            "repo": "forge",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yes (IssueOps project available",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342595041,
+            "language": "Dockerfile",
+            "last_commit": "2021-06-12T17:20:26Z",
+            "owner": "jonico",
+            "repo": "auto-scaling-github-runners-kubernetes-issueops",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flinner/gh-runnerctl",
+          "description": "bare metal/VM, local or over ssh — no root, no Docker (user-level systemd or detached supervisor; targets HPC login nodes and shared hosts) ❌ Org, Repo, Labels, RunnerGroups declarative ( per pool), converged by /; crashed runners restarted with backoff ❌ (fixed-size pools by design) x64, ARM64 (Linux) busy-aware CLI/converge ( prunes, deregisters; skips busy runners unless ) no (token never leaves the control machine; remotes get short-lived registration tokens over ssh stdin) no (persistent runners) no (never root; no sudo at any step) no no no one user-level supervisor process per machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1308892583,
+            "language": "Python",
+            "last_commit": "2026-08-23T09:20:01Z",
+            "owner": "Flinner",
+            "repo": "gh-runnerctl",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "The matrix (might be better readable on GitHub pages)"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T09:04:51.832Z",
+    "last_updated": "2026-08-24T14:18:21.012Z",
     "original_repository": "jonico/awesome-runners",
     "original_repository_id": 336353479,
     "original_repository_sha": "ce1417504a09c590002991e6be89fef6aeea61aa",
