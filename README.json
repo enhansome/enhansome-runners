@@ -12,10 +12,10 @@
             "archived": false,
             "id": 236736020,
             "language": "Go",
-            "last_commit": "2026-08-17T22:14:40Z",
+            "last_commit": "2026-08-24T22:16:03Z",
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6459
+            "stars": 6460
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 258465213,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:47:32Z",
+            "last_commit": "2026-08-24T15:09:32Z",
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
             "stars": 3113
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-21T18:46:33Z",
             "owner": "myoung34",
             "repo": "docker-github-actions-runner",
-            "stars": 2432
+            "stars": 2434
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-05-08T21:05:30Z",
             "owner": "machulav",
             "repo": "ec2-github-runner",
-            "stars": 858
+            "stars": 859
           }
         },
         {
@@ -357,7 +357,7 @@
             "archived": false,
             "id": 467232684,
             "language": "Dockerfile",
-            "last_commit": "2026-08-23T08:54:25Z",
+            "last_commit": "2026-08-24T15:35:03Z",
             "owner": "some-natalie",
             "repo": "kubernoodles",
             "stars": 106
@@ -522,7 +522,7 @@
             "archived": false,
             "id": 982222834,
             "language": "HCL",
-            "last_commit": "2026-08-22T17:05:52Z",
+            "last_commit": "2026-08-24T23:58:03Z",
             "owner": "cisco-open",
             "repo": "forge",
             "stars": 211
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:21.012Z",
+    "last_updated": "2026-08-25T06:10:18.877Z",
     "original_repository": "jonico/awesome-runners",
     "original_repository_id": 336353479,
     "original_repository_sha": "ce1417504a09c590002991e6be89fef6aeea61aa",
