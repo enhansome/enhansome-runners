@@ -447,7 +447,7 @@
             "archived": false,
             "id": 488973970,
             "language": "Go",
-            "last_commit": "2026-08-24T06:34:30Z",
+            "last_commit": "2026-08-25T06:34:04Z",
             "owner": "cloudbase",
             "repo": "garm",
             "stars": 384
@@ -462,7 +462,7 @@
             "archived": false,
             "id": 488973970,
             "language": "Go",
-            "last_commit": "2026-08-24T06:34:30Z",
+            "last_commit": "2026-08-25T06:34:04Z",
             "owner": "cloudbase",
             "repo": "garm",
             "stars": 384
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:18.877Z",
+    "last_updated": "2026-08-25T09:00:44.264Z",
     "original_repository": "jonico/awesome-runners",
     "original_repository_id": 336353479,
     "original_repository_sha": "ce1417504a09c590002991e6be89fef6aeea61aa",
