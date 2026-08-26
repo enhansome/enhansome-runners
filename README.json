@@ -42,7 +42,7 @@
             "archived": false,
             "id": 258465213,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:09:32Z",
+            "last_commit": "2026-08-25T18:00:06Z",
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
             "stars": 3113
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-21T18:46:33Z",
             "owner": "myoung34",
             "repo": "docker-github-actions-runner",
-            "stars": 2434
+            "stars": 2436
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-08-24T11:27:03Z",
             "owner": "runs-on",
             "repo": "runs-on",
-            "stars": 1299
+            "stars": 1300
           }
         },
         {
@@ -522,7 +522,7 @@
             "archived": false,
             "id": 982222834,
             "language": "HCL",
-            "last_commit": "2026-08-24T23:58:03Z",
+            "last_commit": "2026-08-25T23:55:53Z",
             "owner": "cisco-open",
             "repo": "forge",
             "stars": 211
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:00:44.264Z",
+    "last_updated": "2026-08-26T09:02:47.264Z",
     "original_repository": "jonico/awesome-runners",
     "original_repository_id": 336353479,
     "original_repository_sha": "ce1417504a09c590002991e6be89fef6aeea61aa",
