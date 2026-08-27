@@ -12,10 +12,10 @@
             "archived": false,
             "id": 236736020,
             "language": "Go",
-            "last_commit": "2026-08-24T22:16:03Z",
+            "last_commit": "2026-08-27T12:33:26Z",
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6463
+            "stars": 6466
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 258465213,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:58:30Z",
+            "last_commit": "2026-08-27T19:00:13Z",
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
-            "stars": 3113
+            "stars": 3114
           }
         },
         {
@@ -181,21 +181,6 @@
             "owner": "cosmoconsult",
             "repo": "github-runner-windows",
             "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "redhat-actions/self-hosted-runner-installer",
-          "description": "Kubernetes (OpenShift) ✅ Org, Repo, Labels HELM chart parameters ❌ x86 ✅ yes no no no no no no",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 327242212,
-            "language": "TypeScript",
-            "last_commit": "2026-07-27T10:30:49Z",
-            "owner": "redhat-actions",
-            "repo": "openshift-actions-runner-installer",
-            "stars": 29
           }
         },
         {
@@ -522,7 +507,7 @@
             "archived": false,
             "id": 982222834,
             "language": "HCL",
-            "last_commit": "2026-08-26T23:55:41Z",
+            "last_commit": "2026-08-27T17:19:04Z",
             "owner": "cisco-open",
             "repo": "forge",
             "stars": 211
@@ -563,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:41.102Z",
+    "last_updated": "2026-08-27T19:04:31.872Z",
     "original_repository_info": {
       "archived": false,
       "id": 336353479,
