@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6466,
+            "stars": 6467,
             "topics": [
               "github-actions",
               "kubernetes",
@@ -139,7 +139,7 @@
             "open_issues": 1,
             "owner": "myoung34",
             "repo": "docker-github-actions-runner",
-            "stars": 2438,
+            "stars": 2439,
             "topics": [
               "cicd",
               "docker",
@@ -1048,7 +1048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:20.458Z",
+    "last_updated": "2026-08-29T13:50:29.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
