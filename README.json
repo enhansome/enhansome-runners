@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+            "homepage": null,
             "id": 236736020,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:33:26Z",
+            "open_issues": 401,
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6466
+            "stars": 6466,
+            "topics": [
+              "github-actions",
+              "kubernetes",
+              "operator"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -26,12 +35,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IssueOps example on how to setup a Kubernetes cluster with auto-scaling GitHub self-hosted runners based on summerwind/actions-runner-controller",
+            "homepage": "https://jonico.github.io/awesome-runners/",
             "id": 342595041,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2021-06-12T17:20:26Z",
+            "open_issues": 1,
             "owner": "jonico",
             "repo": "auto-scaling-github-runners-kubernetes-issueops",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "actions",
+              "auto-scaling",
+              "awesome-runners",
+              "github",
+              "issueops",
+              "kubernetes",
+              "operator",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -42,12 +65,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform module for scalable GitHub action runners on AWS",
+            "homepage": "https://github-aws-runners.github.io/terraform-aws-github-runner/",
             "id": 258465213,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:47:25Z",
+            "open_issues": 85,
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
-            "stars": 3114
+            "stars": 3114,
+            "topics": [
+              "action-runner",
+              "actions-runner",
+              "aws",
+              "cicd",
+              "github",
+              "github-actions",
+              "hacktoberfest",
+              "lambda",
+              "scalable",
+              "self-hosted",
+              "serverless",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -58,12 +99,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IssueOps example on how to set up an autoscaling, self-hosted runner fleet in AWS using philips-labs/terraform-aws-github-runner",
+            "homepage": "https://jonico.github.io/awesome-runners/",
             "id": 337357839,
             "language": "HCL",
+            "license": null,
             "last_commit": "2021-03-09T11:48:45Z",
+            "open_issues": 1,
             "owner": "jonico",
             "repo": "auto-scaling-github-runners-ec2-issueops",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "actions",
+              "awesome-runners",
+              "aws",
+              "ec2",
+              "ec2-spot",
+              "github",
+              "issueops",
+              "scaling",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -74,12 +130,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This will run the new self-hosted github actions runners with docker-in-docker",
+            "homepage": null,
             "id": 223951404,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T09:06:18Z",
+            "open_issues": 1,
             "owner": "myoung34",
             "repo": "docker-github-actions-runner",
-            "stars": 2438
+            "stars": 2438,
+            "topics": [
+              "cicd",
+              "docker",
+              "github",
+              "github-actions",
+              "gitlab-ci",
+              "hacktoberfest",
+              "hacktoberfest-accepted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -90,12 +159,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "K8S operator for scheduling github actions runner pods",
+            "homepage": null,
             "id": 256623849,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-21T07:01:01Z",
+            "open_issues": 33,
             "owner": "evryfs",
             "repo": "github-actions-runner-operator",
-            "stars": 448
+            "stars": 448,
+            "topics": [
+              "auto-scaling",
+              "automation",
+              "ci",
+              "cicd",
+              "github",
+              "github-actions",
+              "github-runner",
+              "k8s-operator",
+              "kubernetes",
+              "kubernetes-operator",
+              "runner-pod",
+              "runners",
+              "scaling",
+              "schedule-runners"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -106,12 +195,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible Role to deploy GitHub Actions self-hosted runner",
+            "homepage": "https://galaxy.ansible.com/ui/standalone/roles/monolithprojects/github_actions_runner/",
             "id": 240944701,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-20T05:53:45Z",
+            "open_issues": 22,
             "owner": "MonolithProjects",
             "repo": "ansible-github_actions_runner",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "actions",
+              "ansible",
+              "ansible-role",
+              "cicd",
+              "github",
+              "github-actions-runner",
+              "local",
+              "local-runner",
+              "private",
+              "runner",
+              "runner-service",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -122,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 247074124,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-06-21T06:44:36Z",
+            "open_issues": 5,
             "owner": "SanderKnape",
             "repo": "github-runner",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -138,12 +250,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On-demand self-hosted AWS EC2 runner for GitHub Actions",
+            "homepage": null,
             "id": 320320607,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-08T21:05:30Z",
+            "open_issues": 71,
             "owner": "machulav",
             "repo": "ec2-github-runner",
-            "stars": 859
+            "stars": 859,
+            "topics": [
+              "actions-runner",
+              "aws",
+              "cicd",
+              "ec2",
+              "ec2-instance",
+              "ec2-runner",
+              "github",
+              "github-actions",
+              "github-actions-runner",
+              "github-workflow",
+              "javascript",
+              "on-demand",
+              "runner",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -154,12 +286,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creates self-hosted GitHub Actions Runners on Google Cloud",
+            "homepage": "https://registry.terraform.io/modules/terraform-google-modules/github-actions-runners/google",
             "id": 246933399,
             "language": "HCL",
-            "last_commit": "2026-08-28T11:14:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:54:08Z",
+            "open_issues": 19,
             "owner": "terraform-google-modules",
             "repo": "terraform-google-github-actions-runners",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "cft-terraform",
+              "developer-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -170,12 +310,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Actions Self Hosted Runners on Anthos GKE",
+            "homepage": "https://github.com/github-developer/self-hosted-runners-anthos",
             "id": 254143252,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2022-02-13T20:48:08Z",
+            "open_issues": 1,
             "owner": "github-developer",
             "repo": "self-hosted-runners-anthos",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "anthos",
+              "github-actions",
+              "google-cloud"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -186,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 319988158,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2025-03-12T08:54:40Z",
+            "open_issues": 0,
             "owner": "cosmoconsult",
             "repo": "github-runner-windows",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -202,12 +356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bare bones container for GitHub Actions Runner",
+            "homepage": null,
             "id": 292511249,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2022-04-10T12:04:24Z",
+            "open_issues": 2,
             "owner": "peter-murray",
             "repo": "github-actions-runner-container",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -218,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Ansible Role to install Github Action Runner as self-hosted runner",
+            "homepage": null,
             "id": 280956359,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-06-09T12:59:49Z",
+            "open_issues": 2,
             "owner": "lts-beratung",
             "repo": "ansible-github-action-runner",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -234,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARM template & cloud-init config to quickly deploy a GitHub self-hosted Linux runner to Azure.",
+            "homepage": null,
             "id": 290539254,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2021-02-16T16:59:51Z",
+            "open_issues": 0,
             "owner": "rakheshster",
             "repo": "github-runner-on-ubuntu",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -250,12 +419,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "act as self-hosted runner",
+            "homepage": null,
             "id": 370827527,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-21T16:57:57Z",
+            "open_issues": 12,
             "owner": "ChristopherHX",
             "repo": "github-act-runner",
-            "stars": 392
+            "stars": 392,
+            "topics": [
+              "actions",
+              "actions-runner",
+              "ci",
+              "continuous-integration",
+              "devops",
+              "docker",
+              "github",
+              "github-actions",
+              "golang",
+              "self-hosted",
+              "self-hosted-actions"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -266,12 +452,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ephemeral GCE/GCP GitHub self-hosted runner",
+            "homepage": null,
             "id": 381059114,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-05T07:27:53Z",
+            "open_issues": 10,
             "owner": "related-sciences",
             "repo": "gce-github-runner",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "actions",
+              "gcp",
+              "github-actions",
+              "google-cloud-platform",
+              "self-hosted-runner"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -282,12 +479,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto-scaling VirtualMachine runner 🏃  for GitHub Actions",
+            "homepage": null,
             "id": 311498265,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-20T08:15:13Z",
+            "open_issues": 29,
             "owner": "whywaita",
             "repo": "myshoes",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "auto-scaling-runner",
+              "github-actions",
+              "github-actions-runner",
+              "myshoes",
+              "virtual-machine"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -298,12 +506,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "myshoes-provider is shoes plugins for myshoes",
+            "homepage": null,
             "id": 320583655,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-04-28T11:04:59Z",
+            "open_issues": 0,
             "owner": "whywaita",
             "repo": "myshoes-providers",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "amazon-web-services",
+              "github-actions",
+              "myshoes",
+              "myshoes-provider",
+              "openstack"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -314,12 +533,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Actions virtual environments For LXD",
+            "homepage": null,
             "id": 341811611,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-02-20T09:35:16Z",
+            "open_issues": 2,
             "owner": "whywaita",
             "repo": "actions-runner-images-lxd",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "github-actions",
+              "lxd",
+              "runner-images",
+              "virtual-environments"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -330,12 +559,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "On-prem GitHub Actions runners, backed by Kubernetes",
+            "homepage": null,
             "id": 393441587,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2022-01-18T09:56:54Z",
+            "open_issues": 1,
             "owner": "boozallen",
             "repo": "goobernetes",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -346,12 +580,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IssueOps example on how to setup a Kubernetes cluster with auto-scaling GitHub self-hosted runners based on summerwind/actions-runner-controller",
+            "homepage": "https://jonico.github.io/awesome-runners/",
             "id": 342595041,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2021-06-12T17:20:26Z",
+            "open_issues": 1,
             "owner": "jonico",
             "repo": "auto-scaling-github-runners-kubernetes-issueops",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "actions",
+              "auto-scaling",
+              "awesome-runners",
+              "github",
+              "issueops",
+              "kubernetes",
+              "operator",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -362,12 +610,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "k8s runners for GitHub Actions in the enterprise, made for humans",
+            "homepage": "https://some-natalie.dev/kubernoodles/",
             "id": 467232684,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:28:24Z",
+            "open_issues": 2,
             "owner": "some-natalie",
             "repo": "kubernoodles",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "github-actions",
+              "github-enterprise",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -378,12 +635,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IssueOps example on how to setup a Kubernetes cluster with auto-scaling GitHub self-hosted runners based on summerwind/actions-runner-controller",
+            "homepage": "https://jonico.github.io/awesome-runners/",
             "id": 342595041,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2021-06-12T17:20:26Z",
+            "open_issues": 1,
             "owner": "jonico",
             "repo": "auto-scaling-github-runners-kubernetes-issueops",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "actions",
+              "auto-scaling",
+              "awesome-runners",
+              "github",
+              "issueops",
+              "kubernetes",
+              "operator",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -394,12 +665,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Self-Hosted GitHub Actions Runner",
+            "homepage": "https://runner.knat.network",
             "id": 481587657,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-23T07:27:09Z",
+            "open_issues": 0,
             "owner": "knatnetwork",
             "repo": "github-runner",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "githubactions",
+              "githubactionsrunner",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -410,12 +690,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CDK constructs for self-hosted GitHub Actions runners",
+            "homepage": "https://constructs.dev/packages/@cloudsnorkel/cdk-github-runners/",
             "id": 494199802,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:51:38Z",
+            "open_issues": 22,
             "owner": "CloudSnorkel",
             "repo": "cdk-github-runners",
-            "stars": 400
+            "stars": 400,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "cdk",
+              "github-actions",
+              "github-actions-runner"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -426,12 +717,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi self-hosted runners on single host!",
+            "homepage": null,
             "id": 697119408,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-12T09:32:57Z",
+            "open_issues": 0,
             "owner": "vbem",
             "repo": "multi-runners",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "runners",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -442,12 +741,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, up to 2x faster, and unlimited caching. Best alternative to Actions Runner Controller.",
+            "homepage": "https://runs-on.com",
             "id": 729502940,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-24T11:27:03Z",
+            "open_issues": 10,
             "owner": "runs-on",
             "repo": "runs-on",
-            "stars": 1305
+            "stars": 1306,
+            "topics": [
+              "aws",
+              "ci",
+              "cicd",
+              "cloudformation",
+              "continuous-delivery",
+              "continuous-deployment",
+              "continuous-integration",
+              "ec2-spot",
+              "github-actions",
+              "github-runners",
+              "on-premise",
+              "self-hosted",
+              "self-hosted-runners"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -458,12 +776,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners with pluggable providers",
+            "homepage": null,
             "id": 488973970,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T06:34:04Z",
+            "open_issues": 29,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 385
+            "stars": 387,
+            "topics": [
+              "actions-runner",
+              "autoscaler",
+              "autoscaling",
+              "aws",
+              "azure",
+              "cicd",
+              "ec2",
+              "ephemeral-runners",
+              "gcp",
+              "gitea",
+              "github",
+              "github-actions",
+              "github-actions-runner",
+              "incus",
+              "lxd",
+              "multi-cloud",
+              "openstack",
+              "runner",
+              "self-hosted-runner"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -474,12 +817,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners with pluggable providers",
+            "homepage": null,
             "id": 488973970,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T06:34:04Z",
+            "open_issues": 29,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 385
+            "stars": 387,
+            "topics": [
+              "actions-runner",
+              "autoscaler",
+              "autoscaling",
+              "aws",
+              "azure",
+              "cicd",
+              "ec2",
+              "ephemeral-runners",
+              "gcp",
+              "gitea",
+              "github",
+              "github-actions",
+              "github-actions-runner",
+              "incus",
+              "lxd",
+              "multi-cloud",
+              "openstack",
+              "runner",
+              "self-hosted-runner"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -490,12 +858,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a k8s operator to run garm",
+            "homepage": null,
             "id": 687037349,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-03T06:50:26Z",
+            "open_issues": 13,
             "owner": "mercedes-benz",
             "repo": "garm-operator",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "garm",
+              "github-actions",
+              "kubebuilder",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -506,12 +884,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁️ Automatically create/delete Google Cloud hosted ephemeral runner for GitHub Workflows",
+            "homepage": null,
             "id": 829636083,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-07-05T18:44:30Z",
+            "open_issues": 0,
             "owner": "Privatehive",
             "repo": "gcp-hosted-github-runner",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ephemeral",
+              "gcp",
+              "github-runner",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -522,12 +910,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run your GitHub Actions jobs 10x cheaper on your own AWS account. Secure, ephemeral, high-performance, low-cost runners within the privacy of your own VPC.",
+            "homepage": "https://sprinters.sh",
             "id": 822653448,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-05-05T08:13:38Z",
+            "open_issues": 3,
             "owner": "sprinters-sh",
             "repo": "sprinters",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "actions",
+              "actions-runner",
+              "actions-runners",
+              "aws",
+              "aws-ec2",
+              "cicd",
+              "ec2-spot",
+              "github-actions",
+              "github-actions-ci",
+              "github-actions-ci-cd",
+              "github-actions-runner",
+              "github-app",
+              "github-runner",
+              "github-runners",
+              "self-hosted-runner",
+              "self-hosted-runners"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -538,12 +948,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ForgeMT is a multi-tenant platform for self-hosted GitHub Actions runners on AWS. It gives platform teams an IaC-driven way to operate ephemeral EC2 runners and ARC/Kubernetes runner scale sets for many tenant repositories.",
+            "homepage": "https://cisco-open.github.io/forge/",
             "id": 982222834,
             "language": "HCL",
-            "last_commit": "2026-08-27T23:54:53Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:59:05Z",
+            "open_issues": 15,
             "owner": "cisco-open",
             "repo": "forge",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "actions-runner-controller",
+              "automation",
+              "aws",
+              "aws-eks",
+              "ci-cd",
+              "devops",
+              "devsecops",
+              "ec2",
+              "ephemeral",
+              "github-actions",
+              "iam",
+              "infrastructure-as-code",
+              "kubernetes",
+              "multi-tenancy",
+              "oidc",
+              "open-source",
+              "platform-engineering",
+              "self-hosted-runners",
+              "terraform",
+              "terragrunt"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -554,12 +990,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IssueOps example on how to setup a Kubernetes cluster with auto-scaling GitHub self-hosted runners based on summerwind/actions-runner-controller",
+            "homepage": "https://jonico.github.io/awesome-runners/",
             "id": 342595041,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2021-06-12T17:20:26Z",
+            "open_issues": 1,
             "owner": "jonico",
             "repo": "auto-scaling-github-runners-kubernetes-issueops",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "actions",
+              "auto-scaling",
+              "awesome-runners",
+              "github",
+              "issueops",
+              "kubernetes",
+              "operator",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         },
@@ -570,12 +1020,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sudoless, config-driven pool manager for self-hosted GitHub Actions runners. One Python file, stdlib only.",
+            "homepage": null,
             "id": 1308892583,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T09:20:01Z",
+            "open_issues": 0,
             "owner": "Flinner",
             "repo": "gh-runnerctl",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ci",
+              "devops",
+              "gh-extension",
+              "github-actions",
+              "github-actions-runner",
+              "hpc",
+              "runner",
+              "self-hosted-runner"
+            ]
           },
           "first_seen": "2026-08-28T20:12:25.465Z"
         }
@@ -584,15 +1048,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:12:25.465Z",
+    "last_updated": "2026-08-29T04:38:20.458Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
+      "homepage": "https://jonico.github.io/awesome-runners/",
       "id": 336353479,
       "language": "SCSS",
+      "license": "Apache-2.0",
       "last_commit": "2026-07-28T13:56:18Z",
+      "open_issues": 0,
       "owner": "jonico",
       "repo": "awesome-runners",
-      "stars": 890
+      "stars": 890,
+      "topics": [
+        "actions",
+        "actions-runner",
+        "arm",
+        "auto-scaling",
+        "awesome-list",
+        "aws",
+        "azure",
+        "collection",
+        "comparison",
+        "comparisons-page",
+        "docker",
+        "gcp",
+        "github",
+        "hacktoberfest",
+        "kubernetes",
+        "operator",
+        "scaling",
+        "security",
+        "self-hosted",
+        "self-hosted-actions"
+      ]
     },
     "original_repository_sha": "ce1417504a09c590002991e6be89fef6aeea61aa",
     "enhanced_repository": "enhansome/enhansome-runners",
