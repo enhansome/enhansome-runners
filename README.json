@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6467,
+            "stars": 6469,
             "topics": [
               "github-actions",
               "kubernetes",
@@ -74,7 +74,7 @@
             "open_issues": 85,
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
-            "stars": 3114,
+            "stars": 3115,
             "topics": [
               "action-runner",
               "actions-runner",
@@ -139,7 +139,7 @@
             "open_issues": 1,
             "owner": "myoung34",
             "repo": "docker-github-actions-runner",
-            "stars": 2439,
+            "stars": 2440,
             "topics": [
               "cicd",
               "docker",
@@ -291,7 +291,7 @@
             "id": 246933399,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:54:08Z",
+            "last_commit": "2026-08-30T10:26:06Z",
             "open_issues": 19,
             "owner": "terraform-google-modules",
             "repo": "terraform-google-github-actions-runners",
@@ -615,7 +615,7 @@
             "id": 467232684,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-08-26T18:28:24Z",
+            "last_commit": "2026-08-30T08:48:01Z",
             "open_issues": 2,
             "owner": "some-natalie",
             "repo": "kubernoodles",
@@ -750,7 +750,7 @@
             "open_issues": 10,
             "owner": "runs-on",
             "repo": "runs-on",
-            "stars": 1306,
+            "stars": 1308,
             "topics": [
               "aws",
               "ci",
@@ -785,7 +785,7 @@
             "open_issues": 29,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "actions-runner",
               "autoscaler",
@@ -826,7 +826,7 @@
             "open_issues": 29,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "actions-runner",
               "autoscaler",
@@ -953,8 +953,8 @@
             "id": 982222834,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T23:59:05Z",
-            "open_issues": 15,
+            "last_commit": "2026-08-29T19:20:41Z",
+            "open_issues": 10,
             "owner": "cisco-open",
             "repo": "forge",
             "stars": 211,
@@ -1048,7 +1048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:50:29.036Z",
+    "last_updated": "2026-08-30T13:48:17.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
@@ -1060,7 +1060,7 @@
       "open_issues": 0,
       "owner": "jonico",
       "repo": "awesome-runners",
-      "stars": 890,
+      "stars": 891,
       "topics": [
         "actions",
         "actions-runner",
