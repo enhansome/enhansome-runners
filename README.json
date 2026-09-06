@@ -74,7 +74,7 @@
             "open_issues": 96,
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
-            "stars": 3120,
+            "stars": 3119,
             "topics": [
               "action-runner",
               "actions-runner",
@@ -139,7 +139,7 @@
             "open_issues": 1,
             "owner": "myoung34",
             "repo": "docker-github-actions-runner",
-            "stars": 2451,
+            "stars": 2452,
             "topics": [
               "cicd",
               "docker",
@@ -428,7 +428,7 @@
             "open_issues": 12,
             "owner": "ChristopherHX",
             "repo": "github-act-runner",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "actions",
               "actions-runner",
@@ -615,8 +615,8 @@
             "id": 467232684,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-05T06:49:24Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-06T08:47:32Z",
+            "open_issues": 3,
             "owner": "some-natalie",
             "repo": "kubernoodles",
             "stars": 106,
@@ -695,7 +695,7 @@
             "id": 494199802,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T03:06:00Z",
+            "last_commit": "2026-09-05T20:45:44Z",
             "open_issues": 24,
             "owner": "CloudSnorkel",
             "repo": "cdk-github-runners",
@@ -747,10 +747,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-24T11:27:03Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "runs-on",
             "repo": "runs-on",
-            "stars": 1318,
+            "stars": 1321,
             "topics": [
               "aws",
               "ci",
@@ -1048,7 +1048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:50:06.761Z",
+    "last_updated": "2026-09-06T12:08:52.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
