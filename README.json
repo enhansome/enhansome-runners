@@ -19,7 +19,7 @@
             "open_issues": 397,
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6542,
+            "stars": 6543,
             "topics": [
               "github-actions",
               "kubernetes",
@@ -615,8 +615,8 @@
             "id": 467232684,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-01T14:46:42Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-03T07:05:40Z",
+            "open_issues": 1,
             "owner": "some-natalie",
             "repo": "kubernoodles",
             "stars": 106,
@@ -750,7 +750,7 @@
             "open_issues": 13,
             "owner": "runs-on",
             "repo": "runs-on",
-            "stars": 1352,
+            "stars": 1353,
             "topics": [
               "aws",
               "ci",
@@ -1055,7 +1055,7 @@
             "id": 1357002726,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T21:34:41Z",
+            "last_commit": "2026-10-03T13:18:15Z",
             "open_issues": 1,
             "owner": "eyupio",
             "repo": "zoomies",
@@ -1086,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:32.124Z",
+    "last_updated": "2026-10-03T13:23:33.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
