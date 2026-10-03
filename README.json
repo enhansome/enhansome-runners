@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "actions/actions-runner-controller",
-          "description": null,
+          "description": "actions/actions-runner-controller",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:23:16Z",
-            "open_issues": 395,
+            "open_issues": 397,
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6543,
+            "stars": 6542,
             "topics": [
               "github-actions",
               "kubernetes",
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "yes (IssueOps project available",
-          "description": ")",
+          "description": "jonico/auto-scaling-github-runners-kubernetes-issueops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,7 +61,7 @@
         {
           "node_type": "item",
           "title": "github-aws-runners/terraform-aws-github-runner",
-          "description": null,
+          "description": "github-aws-runners/terraform-aws-github-runner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -70,7 +70,7 @@
             "id": 258465213,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:46:05Z",
+            "last_commit": "2026-10-02T19:46:58Z",
             "open_issues": 90,
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
@@ -95,7 +95,7 @@
         {
           "node_type": "item",
           "title": "yes (IssueOps project available",
-          "description": ")",
+          "description": "jonico/auto-scaling-github-runners-ec2-issueops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -259,7 +259,7 @@
             "open_issues": 71,
             "owner": "machulav",
             "repo": "ec2-github-runner",
-            "stars": 861,
+            "stars": 860,
             "topics": [
               "actions-runner",
               "aws",
@@ -475,7 +475,7 @@
         {
           "node_type": "item",
           "title": "whywaita/myshoes",
-          "description": null,
+          "description": "whywaita/myshoes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -502,7 +502,7 @@
         {
           "node_type": "item",
           "title": "Virtual Machine: LXD, OpenStack, AWS, and more! (pluggable, can implement any platform) The already implemented provider is whywaita/myshoes-providers",
-          "description": null,
+          "description": "whywaita/myshoes-providers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -555,7 +555,7 @@
         {
           "node_type": "item",
           "title": "boozallen/goobernetes",
-          "description": null,
+          "description": "boozallen/goobernetes",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -576,7 +576,7 @@
         {
           "node_type": "item",
           "title": "yes (IssueOps project available",
-          "description": ")",
+          "description": "jonico/auto-scaling-github-runners-kubernetes-issueops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -606,7 +606,7 @@
         {
           "node_type": "item",
           "title": "some-natalie/kubernoodles",
-          "description": null,
+          "description": "some-natalie/kubernoodles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -631,7 +631,7 @@
         {
           "node_type": "item",
           "title": "yes (IssueOps project available",
-          "description": ")",
+          "description": "jonico/auto-scaling-github-runners-kubernetes-issueops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -772,7 +772,7 @@
         {
           "node_type": "item",
           "title": "cloudbase/garm",
-          "description": null,
+          "description": "cloudbase/garm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -854,7 +854,7 @@
         {
           "node_type": "item",
           "title": "yes (if used as standalone, optionally it can be integrated in k8s using the garm-operator",
-          "description": ")",
+          "description": "mercedes-benz/garm-operator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -953,8 +953,8 @@
             "id": 982222834,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:32:19Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-02T23:54:52Z",
+            "open_issues": 18,
             "owner": "cisco-open",
             "repo": "forge",
             "stars": 212,
@@ -986,7 +986,7 @@
         {
           "node_type": "item",
           "title": "yes (IssueOps project available",
-          "description": ")",
+          "description": "jonico/auto-scaling-github-runners-kubernetes-issueops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1055,8 +1055,8 @@
             "id": 1357002726,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T13:11:02Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-02T21:34:41Z",
+            "open_issues": 1,
             "owner": "eyupio",
             "repo": "zoomies",
             "stars": 52,
@@ -1086,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:44:44.377Z",
+    "last_updated": "2026-10-03T05:07:32.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
