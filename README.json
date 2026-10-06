@@ -70,8 +70,8 @@
             "id": 258465213,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:57:28Z",
-            "open_issues": 93,
+            "last_commit": "2026-10-06T13:03:41Z",
+            "open_issues": 91,
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
             "stars": 3141,
@@ -135,7 +135,7 @@
             "id": 223951404,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T17:46:01Z",
+            "last_commit": "2026-10-06T13:57:24Z",
             "open_issues": 1,
             "owner": "myoung34",
             "repo": "docker-github-actions-runner",
@@ -750,7 +750,7 @@
             "open_issues": 16,
             "owner": "runs-on",
             "repo": "runs-on",
-            "stars": 1357,
+            "stars": 1358,
             "topics": [
               "aws",
               "ci",
@@ -1055,7 +1055,7 @@
             "id": 1357002726,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:12:10Z",
+            "last_commit": "2026-10-06T15:00:50Z",
             "open_issues": 1,
             "owner": "eyupio",
             "repo": "zoomies",
@@ -1086,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:36.474Z",
+    "last_updated": "2026-10-06T15:12:52.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
