@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6553,
+            "stars": 6555,
             "topics": [
               "github-actions",
               "kubernetes",
@@ -74,7 +74,7 @@
             "open_issues": 92,
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
-            "stars": 3145,
+            "stars": 3149,
             "topics": [
               "action-runner",
               "actions-runner",
@@ -746,11 +746,11 @@
             "id": 729502940,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-09T12:24:14Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-12T16:00:25Z",
+            "open_issues": 14,
             "owner": "runs-on",
             "repo": "runs-on",
-            "stars": 1360,
+            "stars": 1361,
             "topics": [
               "aws",
               "ci",
@@ -785,7 +785,7 @@
             "open_issues": 16,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 413,
+            "stars": 416,
             "topics": [
               "actions-runner",
               "autoscaler",
@@ -826,7 +826,7 @@
             "open_issues": 16,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 413,
+            "stars": 416,
             "topics": [
               "actions-runner",
               "autoscaler",
@@ -957,7 +957,7 @@
             "open_issues": 21,
             "owner": "cisco-open",
             "repo": "forge",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "actions-runner-controller",
               "automation",
@@ -1055,7 +1055,7 @@
             "id": 1357002726,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T14:44:39Z",
+            "last_commit": "2026-10-12T17:54:32Z",
             "open_issues": 2,
             "owner": "eyupio",
             "repo": "zoomies",
@@ -1064,6 +1064,10 @@
               "actions-runner",
               "actions-runner-controller",
               "actions-runners",
+              "autoscaling",
+              "ci-cd",
+              "devops",
+              "ephemeral-runners",
               "github-action",
               "github-actions",
               "github-runner",
@@ -1086,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:55:12.867Z",
+    "last_updated": "2026-10-12T17:55:22.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
@@ -1094,11 +1098,11 @@
       "id": 336353479,
       "language": "SCSS",
       "license": "Apache-2.0",
-      "last_commit": "2026-09-23T14:55:09Z",
+      "last_commit": "2026-10-12T06:46:49Z",
       "open_issues": 0,
       "owner": "jonico",
       "repo": "awesome-runners",
-      "stars": 898,
+      "stars": 899,
       "topics": [
         "actions",
         "actions-runner",
@@ -1122,7 +1126,7 @@
         "self-hosted-actions"
       ]
     },
-    "original_repository_sha": "64390e04d35ab9dd220a674b88219d234583e88a",
+    "original_repository_sha": "cf761f26902341ce391d466a2b8a0cd9632699b2",
     "enhanced_repository": "enhansome/enhansome-runners",
     "enhanced_repository_description": null,
     "title": "awesome-runners 🏃 with stars"
