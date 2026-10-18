@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T06:55:35Z",
-            "open_issues": 404,
+            "open_issues": 402,
             "owner": "actions",
             "repo": "actions-runner-controller",
-            "stars": 6566,
+            "stars": 6569,
             "topics": [
               "github-actions",
               "kubernetes",
@@ -71,7 +71,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T20:12:04Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "github-aws-runners",
             "repo": "terraform-aws-github-runner",
             "stars": 3154,
@@ -139,7 +139,7 @@
             "open_issues": 1,
             "owner": "myoung34",
             "repo": "docker-github-actions-runner",
-            "stars": 2501,
+            "stars": 2505,
             "topics": [
               "cicd",
               "docker",
@@ -615,8 +615,8 @@
             "id": 467232684,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-17T06:54:54Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-18T08:51:31Z",
+            "open_issues": 0,
             "owner": "some-natalie",
             "repo": "kubernoodles",
             "stars": 106,
@@ -750,7 +750,7 @@
             "open_issues": 13,
             "owner": "runs-on",
             "repo": "runs-on",
-            "stars": 1368,
+            "stars": 1367,
             "topics": [
               "aws",
               "ci",
@@ -785,7 +785,7 @@
             "open_issues": 16,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "actions-runner",
               "autoscaler",
@@ -826,7 +826,7 @@
             "open_issues": 16,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "actions-runner",
               "autoscaler",
@@ -1055,11 +1055,11 @@
             "id": 1357002726,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T11:50:22Z",
+            "last_commit": "2026-10-18T12:26:59Z",
             "open_issues": 0,
             "owner": "eyupio",
             "repo": "zoomies",
-            "stars": 70,
+            "stars": 74,
             "topics": [
               "actions-runner",
               "actions-runner-controller",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:11:40.386Z",
+    "last_updated": "2026-10-18T12:36:57.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix",
